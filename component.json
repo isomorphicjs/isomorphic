@@ -1,16 +1,16 @@
 {
   "name": "isomorphic",
-  "repo": "isomorphic/isomorphic",
+  "repo": "isomorphicjs/isomorphic",
   "description": "Isomorphic Client Engine",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
     "component/path": "*",
     "component/emitter": "*",
-    "isomorphic/stack": "*",
-    "isomorphic/methods": "*",
-    "isomorphic/req": "*",
-    "isomorphic/res": "*",
+    "isomorphicjs/stack": "*",
+    "isomorphicjs/methods": "*",
+    "isomorphicjs/req": "*",
+    "isomorphicjs/res": "*",
     "visionmedia/debug": "*"
   },
   "development": {},
